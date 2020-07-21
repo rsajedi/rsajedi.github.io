@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ehsanreza Sajedinia"
-  avatar           : "rsajedi.github.io/images/photo_2020-06-28_11-21-47.jpg"
+  avatar           : https://rsajedi.github.io/images/photo_2020-06-28_11-21-47.jpg
   bio              : "PhD candidate at Purdue University"
   #location         : "Location"
   employer         :
